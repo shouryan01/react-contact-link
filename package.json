@@ -1,0 +1,24 @@
+{
+    "name": "react-contact-link",
+    "version": "1.0.0",
+    "description": "A bold, beautiful way to share contact links!",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/shouryan01/react-contact-link.git"
+    },
+    "keywords": [
+      "react",
+      "contact-link",
+      "tailwindcss"
+    ],
+    "author": "Shouryan Nikam",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/shouryan01/react-contact-link/issues"
+    },
+    "homepage": "https://github.com/shouryan01/react-contact-link#readme"
+  }
